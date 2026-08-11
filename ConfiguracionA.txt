@@ -1,0 +1,9 @@
+# AFD para la expresion regular (a|b)*
+
+ESTADOS: q0
+ALFABETO: a,b
+INICIAL: q0
+ACEPTACION: q0
+TRANSICIONES:
+q0,a,q0
+q0,b,q0

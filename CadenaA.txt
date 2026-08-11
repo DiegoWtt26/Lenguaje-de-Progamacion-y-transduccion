@@ -1,0 +1,22 @@
+# Lenguaje: CUALQUIER cadena sobre {a,b}, incluida la vacia.
+ 
+EPSILON
+a
+b
+aa
+ab
+ba
+bb
+aab
+aba
+baa
+bba
+bab
+abb
+ababbab
+aaaaaaaa
+bbbbbbbb
+abababab
+baabbaba
+abc
+ 

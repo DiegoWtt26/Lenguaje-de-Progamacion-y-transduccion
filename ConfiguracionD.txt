@@ -1,0 +1,18 @@
+# AFD para la expresion regular (b|b)*abb(a|b)*
+
+ESTADOS: q0,q1,q2,q3,qt
+ALFABETO: a,b
+INICIAL: q0
+ACEPTACION: q3
+TRANSICIONES:
+q0,b,q0
+q0,a,q1
+q1,b,q2
+q1,a,qt
+q2,b,q3
+q2,a,qt
+q3,a,q3
+q3,b,q3
+qt,a,qt
+qt,b,qt
+ 

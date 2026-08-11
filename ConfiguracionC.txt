@@ -1,0 +1,9 @@
+# AFD para la expresion regular ((eps|a)b*)*
+
+ALFABETO: a,b
+INICIAL: q0
+ACEPTACION: q0
+TRANSICIONES:
+q0,a,q0
+q0,b,q0
+ 
