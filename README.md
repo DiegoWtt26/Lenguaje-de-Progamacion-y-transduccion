@@ -201,4 +201,9 @@ Ejecuta cualquiera de los 4 ejercicios:
    python3 AFD.py ConfiguracionB.txt CadenaB.txt
    python3 AFD.py ConfiguracionC.txt CadenaC.txt
    python3 AFD.py ConfiguracionD.txt CadenaD.txt
+
+## Integrantes del grupo
+
+  Diego Moreno
+  Samuel Merchan
  
